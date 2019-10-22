@@ -1,4 +1,4 @@
-Usage
+# Usage
 
 - Provisioning AWS (CloudFront, S3, Lambda@edge)
 
@@ -18,3 +18,7 @@ npm run s3:upload
 ```
 npm run cloudfront:invalidate
 ```
+
+# Todo
+
+- limit public access to s3 bucket
