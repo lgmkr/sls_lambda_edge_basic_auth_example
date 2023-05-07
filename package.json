@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "@silvermine/serverless-plugin-cloudfront-lambda-edge": "2.1.1"
+    "@silvermine/serverless-plugin-cloudfront-lambda-edge": "2.2.3"
   }
 }
